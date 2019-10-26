@@ -1,0 +1,5 @@
+.vscode/*
+
+rules/bin/*
+rules/obj/*
+
