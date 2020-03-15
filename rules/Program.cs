@@ -10,7 +10,7 @@ namespace rules
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Test.test();
+            TestIndex.testIndex();
         }
 
         private static void ruleExample()
